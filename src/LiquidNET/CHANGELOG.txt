@@ -1,0 +1,13 @@
+﻿[2012-03-24] 1.3.2.114
+ - added void ExecuteSPCommand (Engine)
+ - added void NewBEO without parameter (BCO)
+
+[2012-03-15] 1.3.2.113
+ - added context-parameter string to createBCODefinition (Engine, ServiceFactory)
+
+[2012-01-15] 1.3.2.112
+ - beo was not removed from collection when deleted
+
+[2011-06-12] 1.3.2.109
+ - [BCOEnumerator] fixed: internal Index handling
+ - [BCO] fixed: BCOEnumerator reset, when bco is refreshed
