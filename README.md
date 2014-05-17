@@ -1,4 +1,4 @@
-liquid-net
+LiquidNET
 ==========
 
 ORM Framework
